@@ -15,7 +15,10 @@
     "plugin",
     "oncompile"
   ],
-  "author": "Joe Dytrych (@SomeHats)",
+  "author": {
+    "name": "Joe Dytrych",
+    "url": "http://j.dytry.ch/"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/SomeHats/oncompile-brunch/issues"
