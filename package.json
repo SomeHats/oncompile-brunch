@@ -1,0 +1,23 @@
+{
+  "name": "oncompile-brunch",
+  "version": "0.0.0",
+  "description": "A simple brunch plugin for running code defined in your brunch config after each compile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SomeHats/oncompile-brunch.git"
+  },
+  "keywords": [
+    "brunch",
+    "plugin",
+    "oncompile"
+  ],
+  "author": "Joe Dytrych (@SomeHats)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SomeHats/oncompile-brunch/issues"
+  }
+}
